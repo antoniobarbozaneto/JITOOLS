@@ -1,2 +1,1 @@
-# JITOOLS
-Java Integration Tools é uma aplicação desenvolvida em Java com o objetivo inicial de automatizar a conversão de arquivos em formato .CSV para XLS ou XLSX, através de instruções via linha de comando.
+# ESS.GTM.PSCUSTOM.DEV.BR_JITOOLS-V1.0
